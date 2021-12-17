@@ -20,7 +20,6 @@
   </properties>
 
   <dependencies>
-  <dependencies>
     <dependency>
       <groupId>com.fasterxml</groupId>
       <artifactId>classmate</artifactId>
